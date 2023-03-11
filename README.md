@@ -1,12 +1,7 @@
-<p align="center">
-    <a href="https://interpreted.vercel.app">
-        <img src="./src/assets/logo.svg" width="200px" align="center" alt="icon"/>
-    </a>
-</p>
 <h1 align="center" style="border: 0;"> LORE </h1>
 
 
-A sub-ordinate endpoint for [YTS](https://yts.mx/). This app shows all the trendings , new and old movies through the API. This react project is begginer friendly, so no need much react complex knowledge. FInd the [Live Demo](https://lore.vercel.app/) here.
+A sub-ordinate endpoint for [YTS](https://yts.mx/). This app shows all the trendings , new and old movies through the API. This react project is begginer friendly, so no need much react complex knowledge. Find the [Live Demo](https://lore-beta.vercel.app/) here.
 
 ## Table Of Contents
 - [Table Of Contents](#table-of-contents)
