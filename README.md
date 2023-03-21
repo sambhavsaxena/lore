@@ -1,7 +1,11 @@
 <h1 align="center" style="border: 0;"> LORE </h1>
 
 
-A sub-ordinate endpoint for [YTS](https://yts.mx/). This app shows all the trendings , new and old movies through the API. This react project is begginer friendly, so no need much react complex knowledge. Find the [Live Demo](https://lore-beta.vercel.app/) here.
+A sub-ordinate endpoint for [YTS](https://yts.mx/). This app shows all the trendings , new and old movies through the API. This react project is begginer friendly, so no need much react complex knowledge. Find the [live demo](https://lore-beta.vercel.app/) here.
+
+
+![Screenshot_20230321_194743](https://user-images.githubusercontent.com/76242518/226634856-f54d3aef-cc26-43a4-907c-dafbbf12e394.png)
+
 
 ## Table Of Contents
 - [Table Of Contents](#table-of-contents)
