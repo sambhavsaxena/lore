@@ -1,5 +1,5 @@
 import Axios from 'axios';
 
 export default Axios.create({
-    baseURL: 'https://yts.nz/',
+    baseURL: 'https://www.yts.nz/',
 });
