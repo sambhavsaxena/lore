@@ -1,6 +1,7 @@
 {
   "name": "lore",
   "version": "0.1.0",
+  "proxy": "https://www.yts.nz/",
   "private": true,
   "dependencies": {
     "axios": "^0.21.1",
