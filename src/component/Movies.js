@@ -10,7 +10,10 @@ const fetchMovieList = async (page, limit) => {
         page,
         limit,
       },
-      mode: "cors",
+      headers: {
+        "Access-Control-Allow-Origin": "*",
+        "Content-Type": "application/json",
+      },
     });
     return withData(res.data.movies);
   } catch (err) {
